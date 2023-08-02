@@ -60,8 +60,8 @@ To use the Payroll Management System, you can follow these steps:
 
 ## 5. Contributors
 
-- Sameer Shaligram (https://github.com/s-shaligram) - Lead Developer
+- Sameer Shaligram (https://github.com/s-shaligram) - Developer
 
 ---
 
-*This project was created as part of Java Course.*
+*This project was created as a part of Java Course.*
